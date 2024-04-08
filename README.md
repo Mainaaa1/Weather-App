@@ -1,4 +1,4 @@
-Weather App
+<h1>Weather App</h1>
 
 Welcome to the Weather App! This web application allows users to easily check the weather conditions of any city around the world. It utilizes the OpenWeather API to fetch real-time weather data and displays it in a user-friendly interface.
 

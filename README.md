@@ -26,10 +26,11 @@
     Cinzel: The Cinzel font from Google Fonts is used to enhance the visual appeal of the application.
 
 <h2>How to Use</h2>
-
-    Clone the repository to your local machine.
-    Open the index.html file in your preferred web browser.
-    Enter the name of the city you want to check the weather for in the input field.
-    Click on the search button.
-    Weather information for the specified city will be displayed, including temperature, description, humidity, wind speed, and      an appropriate weather icon.
+<ol>
+    <li>Clone the repository to your local machine.</li>
+    <li>Open the index.html file in your preferred web browser.</li>
+   <li> Enter the name of the city you want to check the weather for in the input field.</li>
+    <li>Click on the search button.</li>
+ </ol>
+  <p>  Weather information for the specified city will be displayed, including temperature, description, humidity, wind speed, and an appropriate weather icon.</p>
 
